@@ -1,3 +1,4 @@
+
 # BlinkingLabel
 
 [![CI Status](http://img.shields.io/travis/bel0c0/BlinkingLabel.svg?style=flat)](https://travis-ci.org/bel0c0/BlinkingLabel)
@@ -27,3 +28,4 @@ bel0c0, blaw@diligent.com
 ## License
 
 BlinkingLabel is available under the MIT license. See the LICENSE file for more info.
+
